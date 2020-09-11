@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/akeaveny/git/cs285/Assignments/hw1/cs285/scripts/../data/dagger_test_bc_humanoid_Humanoid-v2_05-09-2020_19-36-05/policy_itr_3"
+all_model_checkpoint_paths: "/home/akeaveny/git/cs285/Assignments/hw1/cs285/scripts/../data/dagger_test_bc_humanoid_Humanoid-v2_05-09-2020_19-36-05/policy_itr_3"

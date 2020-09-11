@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hw1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hw3" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38bd667c-bb52-4270-b001-4edd07f2d79d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/agents/bc_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/agents/bc_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/replay_buffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/replay_buffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/rl_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/rl_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/tf_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/tf_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policies/MLP_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/policies/MLP_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/run_hw1_behavior_cloning.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/run_hw1_behavior_cloning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/cs285/agents/pg_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/cs285/agents/pg_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/cs285/infrastructure/rl_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/cs285/infrastructure/rl_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/cs285/infrastructure/tf_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/cs285/infrastructure/tf_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/cs285/infrastructure/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/cs285/infrastructure/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/cs285/policies/MLP_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/cs285/policies/MLP_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/cs285/scripts/run_hw2_policy_gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/cs285/scripts/run_hw2_policy_gradient.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1g8SzXAl1ppr1Sidz6TsIIi98qW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38bd667c-bb52-4270-b001-4edd07f2d79d" name="Default Changelist" comment="" />
+      <created>1597494989107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597494989107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

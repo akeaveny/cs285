@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/akeaveny/git/cs285/Assignments/hw1/cs285/scripts/../data/dagger_test_dagger_ant_Ant-v2_08-08-2020_12-44-33/policy_itr_9"
+all_model_checkpoint_paths: "/home/akeaveny/git/cs285/Assignments/hw1/cs285/scripts/../data/dagger_test_dagger_ant_Ant-v2_08-08-2020_12-44-33/policy_itr_9"

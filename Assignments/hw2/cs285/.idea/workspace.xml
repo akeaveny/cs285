@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29d30ade-08b4-4be5-a2af-f5b5c8dcc7ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/agents/bc_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/agents/bc_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/replay_buffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/replay_buffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/rl_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/rl_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/tf_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/tf_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/infrastructure/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/policies/MLP_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/policies/MLP_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/cs285/scripts/run_hw1_behavior_cloning.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/cs285/scripts/run_hw1_behavior_cloning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agents/pg_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/agents/pg_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/rl_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/rl_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/tf_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/tf_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policies/MLP_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/policies/MLP_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/run_hw2_policy_gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/run_hw2_policy_gradient.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1g8Sz2K7mVlh6C8vqMmNte9fZEZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts/run_hw2_policy_gradient.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run_hw2_policy_gradient" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cs285" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/cs285/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/run_hw2_policy_gradient.py" />
+      <option name="PARAMETERS" value="--env_name CartPole-v0 -n 100 -b 1000 -dsa --exp_name sb_no_rtg_dsa -l 1 -s 32" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d30ade-08b4-4be5-a2af-f5b5c8dcc7ec" name="Default Changelist" comment="" />
+      <created>1597494986317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597494986317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2371" y="197" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599350093540">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2371" y="197" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599350093540" />
+    <state x="2696" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599350066054">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2696" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599350066054" />
+    <state x="882" y="533" key="#xdebugger.evaluate" timestamp="1599351774030">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="882" y="533" key="#xdebugger.evaluate/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599351774030" />
+    <state x="2696" y="310" width="609" height="524" key="FileChooserDialogImpl" timestamp="1597498124724">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2696" y="310" width="609" height="524" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597498124724" />
+    <state width="1830" height="344" key="GridCell.Tab.0.bottom" timestamp="1599353590252">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590252" />
+    <state width="1830" height="344" key="GridCell.Tab.0.center" timestamp="1599353590251">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590251" />
+    <state width="1830" height="344" key="GridCell.Tab.0.left" timestamp="1599353590251">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590251" />
+    <state width="1830" height="344" key="GridCell.Tab.0.right" timestamp="1599353590251">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590251" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1599353590252">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590252" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1599353590252">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590252" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1599353590252">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590252" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1599353590252">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599353590252" />
+    <state x="2402" y="174" key="SettingsEditor" timestamp="1597498105358">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2402" y="174" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597498105358" />
+    <state x="727" y="298" width="597" height="522" key="find.popup" timestamp="1599351109236">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="2604" y="278" width="618" height="522" key="find.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597495095104" />
+    <state x="727" y="298" width="597" height="522" key="find.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599351109236" />
+  </component>
+</project>

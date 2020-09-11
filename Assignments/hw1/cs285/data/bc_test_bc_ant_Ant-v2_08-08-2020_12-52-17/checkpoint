@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/akeaveny/git/cs285/Assignments/hw1/cs285/scripts/../data/bc_test_bc_ant_Ant-v2_08-08-2020_12-52-17/policy_itr_0"
+all_model_checkpoint_paths: "/home/akeaveny/git/cs285/Assignments/hw1/cs285/scripts/../data/bc_test_bc_ant_Ant-v2_08-08-2020_12-52-17/policy_itr_0"
